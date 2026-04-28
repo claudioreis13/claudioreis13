@@ -1,8 +1,8 @@
 # Olá, eu sou o Cláudio 👋
 
-💻 Analista de TI II <br>
-🎨 Focado em desenvolvimento Frontend <br>
-🚀 Criando interfaces modernas, responsivas e funcionais
+* 💻 Analista de TI
+* 🎨 Focado em desenvolvimento Frontend
+* 🚀 Criando interfaces modernas, responsivas e funcionais
 
 ---
 
@@ -18,8 +18,8 @@ HTML • CSS • JavaScript • React (em aprendizado) • Git
 
 Landing page com foco em design moderno, responsividade e experiência do usuário
 
-🔗 [Ver projeto](https://site-casamento-kappa-nine.vercel.app/) <br>
-📁 [Código](https://github.com/claudioreis13/site-casamento)
+* 🔗 [Ver projeto](https://site-casamento-kappa-nine.vercel.app/)
+* 📁 [Código](https://github.com/claudioreis13/site-casamento)
 
 ---
 
@@ -27,8 +27,8 @@ Landing page com foco em design moderno, responsividade e experiência do usuár
 
 Aplicação frontend que consome API externa com busca dinâmica e interface responsiva
 
-🔗 [Ver projeto](https://pokedex-henna-eight.vercel.app/) <br>
-📁 [Código](https://github.com/claudioreis13/pokedex)
+* 🔗 [Ver projeto](https://pokedex-henna-eight.vercel.app/)
+* 📁 [Código](https://github.com/claudioreis13/pokedex)
 
 ---
 
