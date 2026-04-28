@@ -22,8 +22,8 @@
 
 Landing page desenvolvida com foco em design moderno, responsividade e experiência do usuário
 
-🔗 Ver projeto: https://site-casamento-kappa-nine.vercel.app/
-📁 Código: https://github.com/claudioreis13/site-casamento
+🔗 Ver projeto: https://site-casamento-kappa-nine.vercel.app/  
+📁 Código: https://github.com/claudioreis13/site-casamento  
 
 ---
 
@@ -31,8 +31,8 @@ Landing page desenvolvida com foco em design moderno, responsividade e experiên
 
 Aplicação frontend que consome API externa, com busca dinâmica, renderização de dados e interface responsiva
 
-🔗 Ver projeto: https://pokedex-henna-eight.vercel.app/
-📁 Código: https://github.com/claudioreis13/pokedex
+🔗 Ver projeto: https://pokedex-henna-eight.vercel.app/  
+📁 Código: https://github.com/claudioreis13/pokedex  
 
 ---
 
