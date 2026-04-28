@@ -1,7 +1,7 @@
 # Olá, eu sou o Cláudio 👋
 
-💻 Analista de TI
-🎨 Focado em desenvolvimento Frontend
+💻 Analista de TI <br>
+🎨 Focado em desenvolvimento Frontend <br>
 🚀 Criando interfaces modernas, responsivas e funcionais
 
 ---
