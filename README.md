@@ -9,8 +9,8 @@
 ## 🚀 Tecnologias
 
 * HTML
-* CSS
-* JavaScript
+* CSS (em aprendizado)
+* JavaScript (em aprendizado)
 * React (em aprendizado)
 * Git
 
