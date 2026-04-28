@@ -20,7 +20,7 @@
 
 ### 💍 Site de casamento responsivo
 
-Landing page desenvolvida com foco em design moderno, responsividade e experiência do usuário.
+Landing page desenvolvida com foco em design moderno, responsividade e experiência do usuário
 
 🔗 Ver projeto: https://site-casamento-kappa-nine.vercel.app/
 📁 Código: https://github.com/claudioreis13/site-casamento
@@ -29,7 +29,7 @@ Landing page desenvolvida com foco em design moderno, responsividade e experiên
 
 ### 🎮 Pokédex interativa
 
-Aplicação frontend que consome API externa, com busca dinâmica, renderização de dados e interface responsiva.
+Aplicação frontend que consome API externa, com busca dinâmica, renderização de dados e interface responsiva
 
 🔗 Ver projeto: https://pokedex-henna-eight.vercel.app/
 📁 Código: https://github.com/claudioreis13/pokedex
@@ -48,14 +48,12 @@ Busco evoluir continuamente, aplicando boas práticas de código e desenvolvendo
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudioreis13\&show_icons=true)](https://github.com/claudioreis13)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudioreis13&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioreis13&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioreis13\&layout=compact)](https://github.com/claudioreis13)
 
 ---
 
 ## 📬 Contato
 
-* LinkedIn: https://www.linkedin.com/in/cl%C3%A1udio-reis-b4b307118/
+* 💼 LinkedIn: [Cláudio Reis](https://www.linkedin.com/in/cl%C3%A1udio-reis-b4b307118/)
